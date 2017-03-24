@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_progress_bar.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\app_left.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\app_left.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\app_right.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\app_right.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_headers_right_fading.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\qing.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\qing.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\leizhenyu.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\leizhenyu.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\mobilesafe.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\mobilesafe.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_your_company.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\app_icon_your_company.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\xue.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\xue.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\mwifi.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\mwifi.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_speech_orb.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\text_video.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\text_video.jpg"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\wifi.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\top_test_bg.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\top_test_bg.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\mai.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\mai.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\white_light_10.9.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\white_light_10.9.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\nocolor.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\OTTLauncher\\androidtvwidget\\unspecified\\res\\drawable\\nocolor.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\mainview01.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\mainview01.jpg"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\no_network.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\no_network.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\yu.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\yu.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\duoyun.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\duoyun.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_search_orb.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\appinfo_bg_rectangle.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\appinfo_bg_rectangle.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\weather.jpg"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\main_bg.jpg"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_onboarding_start_button_background.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\defaul.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\defaul.jpg"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\yin.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\yin.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\test_rectangle.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\test_rectangle.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_background.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\23.4.0\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\youxian.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\youxian.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\yujiaxue.png",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\yujiaxue.png"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\appinfo_lable_bg.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\appinfo_lable_bg.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\app_bg_rectangle.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\app_bg_rectangle.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable\\line1x72.jpg",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLauncher\\launcher\\src\\main\\res\\drawable\\line1x72.jpg"
+    }
+]

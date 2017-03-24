@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl_main"
+    android:background="@drawable/bg"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我的应用"
+        android:textSize="@dimen/w_60"
+        android:layout_marginTop="@dimen/h_250"
+        android:layout_marginLeft="@dimen/w_216"
+        android:layout_marginBottom="@dimen/h_15"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@drawable/line1x72"
+        android:layout_marginLeft="@dimen/w_216"
+        android:layout_marginRight="@dimen/w_216"
+        android:layout_marginBottom="@dimen/h_85"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/w_220"
+        android:layout_marginRight="@dimen/w_220"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        >
+        <com.open.androidtvwidget.recycle.RecyclerViewTV
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clipToPadding="false"
+            android:focusable="false"
+            ></com.open.androidtvwidget.recycle.RecyclerViewTV>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="right"
+            >
+            <ImageView
+                android:id="@+id/iv_left"
+                android:layout_width="@dimen/w_40"
+                android:layout_height="@dimen/w_40"
+                android:src="@drawable/app_left"
+                />
+            <ImageView
+                android:layout_width="@dimen/w_40"
+                android:layout_height="@dimen/w_40"
+                android:src="@drawable/app_right"
+                android:layout_alignRight="@id/iv_left"
+                android:layout_marginLeft="@dimen/w_35"
+                />
+        </LinearLayout>
+        <com.open.androidtvwidget.view.MainUpView
+            android:id="@+id/mainUpView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</LinearLayout>
